@@ -1,0 +1,1 @@
+fun main() = readln().forEach { i -> repeat(2) { print(i) } }
